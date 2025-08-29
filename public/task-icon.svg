@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Fondo del papel -->
+  <rect x="4" y="2" width="24" height="28" rx="2" ry="2" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Líneas de la lista -->
+  <line x1="8" y1="8" x2="28" y2="8" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="8" y1="12" x2="28" y2="12" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="8" y1="16" x2="28" y2="16" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="8" y1="20" x2="28" y2="20" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="8" y1="24" x2="28" y2="24" stroke="#f0f0f0" stroke-width="1"/>
+  
+  <!-- Checkbox completado (verde) -->
+  <rect x="9" y="7" width="3" height="3" rx="0.5" fill="#10b981" stroke="#059669" stroke-width="0.5"/>
+  <polyline points="10,8.5 10.7,9.2 11.7,8.2" fill="none" stroke="white" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Checkbox completado (verde) -->
+  <rect x="9" y="15" width="3" height="3" rx="0.5" fill="#10b981" stroke="#059669" stroke-width="0.5"/>
+  <polyline points="10,16.5 10.7,17.2 11.7,16.2" fill="none" stroke="white" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Checkbox pendiente -->
+  <rect x="9" y="11" width="3" height="3" rx="0.5" fill="none" stroke="#d1d5db" stroke-width="0.8"/>
+  
+  <!-- Checkbox pendiente -->
+  <rect x="9" y="19" width="3" height="3" rx="0.5" fill="none" stroke="#d1d5db" stroke-width="0.8"/>
+  
+  <!-- Texto de las tareas (simulado con líneas) -->
+  <line x1="14" y1="8.5" x2="24" y2="8.5" stroke="#6b7280" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="12.5" x2="22" y2="12.5" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="16.5" x2="26" y2="16.5" stroke="#6b7280" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="20.5" x2="20" y2="20.5" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>
